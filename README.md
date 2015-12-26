@@ -6,10 +6,12 @@ Ogni ridistribuzione, modifica o utilizzo va accompagnata con i giusti crediti a
 
 
 Dipendenze:
--gpg
+
+--gpg
 
 Necessita di:
--Un cervello e un paio di mani
+
+--Un cervello e un paio di mani
 
 
 Ricorda: 
