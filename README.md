@@ -2,6 +2,7 @@
 The easiest way to use PGP/GPG
 
 Lo script viene rilasciato senza garanzia alcuna e sotto licenza GPL v.3 come riportato nel sorgente stesso.
+
 Ogni ridistribuzione, modifica o utilizzo va accompagnata con i giusti crediti al creatore.
 
 
